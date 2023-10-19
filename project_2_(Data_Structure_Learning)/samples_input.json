@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Ali",
+        "birth_year": "01/01/90",
+        "height": 170,
+        "weight": 70
+    },
+    {
+        "name": "Reza",
+        "birth_year": "02/02/95",
+        "height": 180,
+        "weight": 75
+    },
+    {
+        "name": "Sara",
+        "birth_year": "03/03/85",
+        "height": 165,
+        "weight": 60
+    },
+    {
+        "name": "Leila",
+        "birth_year": "04/04/00",
+        "height": 155,
+        "weight": 50
+    },
+    {
+        "name": "Amir",
+        "birth_year": "05/05/92",
+        "height": 190,
+        "weight": 88
+    },
+    {
+        "name": "Neda",
+        "birth_year": "06/06/82",
+        "height": 160,
+        "weight": 55
+    },
+    {
+        "name": "Hossein",
+        "birth_year": "07/07/88",
+        "height": 175,
+        "weight": 80
+    },
+    {
+        "name": "Fatemeh",
+        "birth_year": "08/08/96",
+        "height": 168,
+        "weight": 63
+    },
+    {
+        "name": "Mehrdad",
+        "birth_year": "09/09/93",
+        "height": 178,
+        "weight": 75
+    },
+    {
+        "name": "Parvin",
+        "birth_year": "10/10/89",
+        "height": 162,
+        "weight": 58
+    }
+]

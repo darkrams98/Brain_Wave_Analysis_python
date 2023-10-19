@@ -1,0 +1,72 @@
+[
+    {
+        "num_children": 2,
+        "blood_pressure": 120,
+        "hospitalized": false,
+        "genetic_disease": true,
+        "fbs": 90
+    },
+    {
+        "num_children": 1,
+        "blood_pressure": 130,
+        "hospitalized": true,
+        "genetic_disease": false,
+        "fbs": 100
+    },
+    {
+        "num_children": 3,
+        "blood_pressure": 110,
+        "hospitalized": false,
+        "genetic_disease": true,
+        "fbs": 95
+    },
+    {
+        "num_children": 0,
+        "blood_pressure": 140,
+        "hospitalized": false,
+        "genetic_disease": false,
+        "fbs": 105
+    },
+    {
+        "num_children": 2,
+        "blood_pressure": 115,
+        "hospitalized": true,
+        "genetic_disease": true,
+        "fbs": 92
+    },
+    {
+        "num_children": 4,
+        "blood_pressure": 125,
+        "hospitalized": false,
+        "genetic_disease": false,
+        "fbs": 99
+    },
+    {
+        "num_children": 1,
+        "blood_pressure": 135,
+        "hospitalized": true,
+        "genetic_disease": true,
+        "fbs": 101
+    },
+    {
+        "num_children": 0,
+        "blood_pressure": 145,
+        "hospitalized": false,
+        "genetic_disease": false,
+        "fbs": 96
+    },
+    {
+        "num_children": 3,
+        "blood_pressure": 118,
+        "hospitalized": true,
+        "genetic_disease": true,
+        "fbs": 94
+    },
+    {
+        "num_children": 2,
+        "blood_pressure": 122,
+        "hospitalized": false,
+        "genetic_disease": false,
+        "fbs": 93
+    }
+]

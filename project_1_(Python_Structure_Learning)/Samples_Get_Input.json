@@ -1,0 +1,33 @@
+
+[
+  {
+    "name": "Ali",
+    "birth_year": 1995, 
+    "height": 175,
+    "weight": 70
+  },
+  {
+    "name": "Reza",
+    "birth_year": 1990,
+    "height": 180,
+    "weight": 75
+  },
+  {
+    "name": "Sara",
+    "birth_year": 2000,
+    "height": 165,
+    "weight": 60
+  },
+  {
+    "name": "Leila",
+    "birth_year": 2002,
+    "height": 168,
+    "weight": 55
+  },
+  {
+    "name": "Amir", 
+    "birth_year": 1985,
+    "height": 188,
+    "weight": 90
+  }
+]

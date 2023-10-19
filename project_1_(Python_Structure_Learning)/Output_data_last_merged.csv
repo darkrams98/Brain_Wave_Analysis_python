@@ -1,0 +1,6 @@
+,name,birth_year,height,weight,num_children,blood_pressure,hospitalized,genetic_disease,fbs
+0,Ali,1995,175,70,2,120,False,True,90
+1,Reza,1990,180,75,0,130,True,False,100
+2,Sara,2000,165,60,0,110,False,False,85
+3,Leila,2002,168,55,0,105,False,False,92
+4,Amir,1985,188,90,1,140,True,False,110

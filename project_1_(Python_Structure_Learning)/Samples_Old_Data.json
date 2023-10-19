@@ -1,0 +1,37 @@
+[
+    {
+        "num_children": 2,
+        "blood_pressure": 120,
+        "hospitalized": false,
+        "genetic_disease": true,
+        "fbs": 90
+    },
+    {
+        "num_children": 0,
+        "blood_pressure": 130,
+        "hospitalized": true,
+        "genetic_disease": false,
+        "fbs": 100
+    },
+    {
+        "num_children": 0,
+        "blood_pressure": 110,
+        "hospitalized": false,
+        "genetic_disease": false,
+        "fbs": 85
+    },
+    {
+        "num_children": 0,
+        "blood_pressure": 105,
+        "hospitalized": false,
+        "genetic_disease": false,
+        "fbs": 92
+    },
+    {
+        "num_children": 1,
+        "blood_pressure": 140,
+        "hospitalized": true,
+        "genetic_disease": false,
+        "fbs": 110
+    }
+]
